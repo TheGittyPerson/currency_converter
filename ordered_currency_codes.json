@@ -1,0 +1,21 @@
+{
+    "ordered_currencies": [
+        "USD", "EUR", "JPY", "GBP", "AUD", "CAD", "CHF", "CNY", "HKD", "NZD",
+        "SEK", "KRW", "SGD", "NOK", "MXN", "INR", "RUB", "ZAR", "TRY", "BRL",
+        "TWD", "DKK", "PLN", "THB", "MYR", "HUF", "CZK", "IDR", "ILS", "PHP",
+        "CLP", "PEN", "COP", "EGP", "AED", "VND", "SAR", "QAR", "KWD", "BHD",
+        "PKR", "BDT", "LKR", "NPR", "KES", "GHS", "NGN", "TZS", "UGX", "RWF",
+        "MAD", "DZD", "TND", "AOA", "ETB", "MZN", "ZMW", "MUR", "SLL", "LSL",
+        "AFN", "ALL", "AMD", "ANG", "AOA", "ARS", "AWG", "AZN", "BAM", "BBD",
+        "BIF", "BMD", "BND", "BOB", "BTC", "BTN", "BWP", "BYN", "BYR", "BZD",
+        "CDF", "CLF", "CNH", "CUC", "CUP", "CVE", "DJF", "DOP", "ERN", "FJD",
+        "FKP", "GEL", "GGP", "GIP", "GMD", "GNF", "GTQ", "GYD", "HNL", "HRK",
+        "HTG", "IRR", "ISK", "JEP", "JMD", "JOD", "KHR", "KMF", "KPW", "KYD",
+        "KGS", "LAK", "LBP", "LRD", "LTL", "LVL", "LYD", "MDL", "MKD", "MMK",
+        "MNT", "MOP", "MRU", "MVR", "MWK", "NAD", "NIO", "NOK", "OMR", "PAB",
+        "PGK", "PYG", "QAR", "RON", "RSD", "SBD", "SCR", "SDG", "SHP", "SLE",
+        "SOS", "SRD", "STD", "SVC", "SYP", "SZL", "TJS", "TMT", "TOP", "TTD",
+        "UAH", "UYU", "UZS", "VEF", "VES", "VND", "VUV", "WST", "XAF", "XAG",
+        "XAU", "XCD", "XDR", "XOF", "XPF", "YER", "ZAR", "ZMK", "ZMW", "ZWL"
+    ]
+}
