@@ -22,7 +22,8 @@ class IOFields:
         self.base_currency.set("--Select Currency--")
         self.target_currency.set("--Select Currency--")
 
-        self.json_path = Path('ordered_currency_codes.json')
+        self.json_path = Path(__file__).parent.resolve() \
+                             / 'ordered_currency_codes.json'
         with open(self.json_path, 'r') as file:
             self.currency_codes = json.load(file)['ordered_currencies']
 
